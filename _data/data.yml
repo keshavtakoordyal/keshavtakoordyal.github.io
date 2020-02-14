@@ -47,16 +47,18 @@ career-profile:
       I started programming during my teen years beginning with python. 
       I somewhat learnt how to use some of its modules such as pygame and django. I then started making 
       video games using the <a href="https://unity.com/">Unity</a> game engine and learnt how to code in c#.<br><br>In 2018, I was a 
-      Google Code-In finalist. I had worked a lot on network related technologies and made use of Ansible and Docker 
-      during the contest. I configured virtual machines running on OpenWRT, hosted local servers, made web interfaces
-      and improved documentation. To this day, I'm always learning new things while contributing to GitHub by 
+      Google Code-In finalist. I worked a lot on network related technologies and made use of Ansible and Docker 
+      during the contest. I configured virtual machines running on OpenWRT in <a href="https://www.virtualbox.org/">VirtualBox</a>, 
+      hosted local servers, some of which on <a href="https://www.nginx.com/">Nginx</a>, made web interfaces and improved documentation. 
+      To this day, I'm always learning new things while contributing to GitHub by 
       participating in events such as IETF Hackathons during which I usually implement secure algorithms such as 
       SSH-XMSS and TLS 1.3. Additionally, I'm representing my country in such events by being a 
       <a href="https://cyberstorm.mu">CyberStorm.mu</a> member.<br><br> Being a Linux lover, I made my own Distro named 
-      <a href="https://os.kinesis.games">Kinesis OS</a> which uses <a href="https://www.archlinux.org/">Arch</a>'s package 
-      manager; pacman. In 2019, I was a mentor for Google Code-in with my former organisation; <a href="http://openwisp.org">OpenWISP</a>. 
-      During my free time, I'm  experimenting new ways of developing websites and creating games. You can find some of my achievements on 
-      <a href="www.sololearn.com/Profile/1157133">SoloLearn</a> and <a href="https://www.freecodecamp.org/edgeking810">FreeCodeCamp</a>.
+      <a href="https://os.kinesis.games">Kinesis OS</a> bundled with many useful bash scripts, which uses 
+      <a href="https://www.archlinux.org/">Arch</a>'s package manager; pacman. In 2019, I was a mentor for Google Code-in 
+      with my former organisation; <a href="http://openwisp.org">OpenWISP</a>. During my free time, I'm  experimenting new ways of developing websites 
+      and creating games or apps. You can find some of my achievements on <a href="www.sololearn.com/Profile/1157133">SoloLearn</a> and 
+      <a href="https://www.freecodecamp.org/edgeking810">FreeCodeCamp</a>.
 education:
     - degree: HSC (Maths, Physics, Computer Science)
       university: Mahatma Gandhi Institute Secondary School
@@ -98,6 +100,15 @@ skills:
       
       - name: Jekyll & Liquid
         level: 85%
+      
+      - name: Git
+        level: 90%
+
+      - name: SSH, VNC
+        level: 75%
+      
+      - name: Bash/Linux
+        level: 70%
 
       - name: Javascript & jQuery
         level: 85%
@@ -125,9 +136,6 @@ skills:
       
       - name: Docker
         level: 50%
-      
-      - name: Bash/Linux
-        level: 75%
 
 footer: #>
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
