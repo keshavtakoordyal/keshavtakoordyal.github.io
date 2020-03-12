@@ -49,7 +49,7 @@ career-profile:
       video games using the <a href="https://unity.com/">Unity</a> game engine and learnt how to code in c#.<br><br>In 2018, I was a 
       Google Code-In finalist. I worked a lot on network related technologies and made use of Ansible and Docker 
       during the contest. I configured virtual machines running on OpenWRT in <a href="https://www.virtualbox.org/">VirtualBox</a>, 
-      hosted local servers, some of which on <a href="https://www.nginx.com/">Nginx</a>, made web interfaces and improved documentation. 
+      hosted local servers, most of which on <a href="https://www.apache.org/">Apache</a> or <a href="https://www.nginx.com/">Nginx</a>, made web interfaces and improved documentation. 
       To this day, I'm always learning new things while contributing to GitHub by 
       participating in events such as IETF Hackathons during which I usually implement secure algorithms such as 
       SSH-XMSS and TLS 1.3. Additionally, I'm representing my country in such events by being a 
@@ -57,7 +57,7 @@ career-profile:
       <a href="https://os.kinesis.games">Kinesis OS</a> bundled with many useful bash scripts, which uses 
       <a href="https://www.archlinux.org/">Arch</a>'s package manager; pacman. In 2019, I was a mentor for Google Code-in 
       with my former organisation; <a href="http://openwisp.org">OpenWISP</a>. During my free time, I'm  experimenting new ways of developing websites 
-      and creating games or apps. You can find some of my achievements on <a href="www.sololearn.com/Profile/1157133">SoloLearn</a> and 
+      and creating games or apps. In the pursuit of improving my SysAdmin/DevOps skills, I experimented a lot with <a href="https://www.ansible.com/">Ansible</a> and <a href="https://www.docker.com/">Docker</a>. You can find some of my achievements on <a href="www.sololearn.com/Profile/1157133">SoloLearn</a> and 
       <a href="https://www.freecodecamp.org/edgeking810">FreeCodeCamp</a>.
 education:
     - degree: HSC (Maths, Physics, Computer Science)
@@ -132,10 +132,10 @@ skills:
         level: 65%
 
       - name: Ansible
-        level: 40%
+        level: 60%
       
       - name: Docker
-        level: 50%
+        level: 85%
 
 footer: #>
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
