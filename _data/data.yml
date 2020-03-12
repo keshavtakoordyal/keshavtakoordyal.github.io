@@ -65,6 +65,14 @@ education:
       time: 2013 - 2019
       details: 
 experiences:
+    - role: System Administrator/DevOps
+      time: March 2020 - Present
+      company: Esokia Web Agency, Quatre Bornes
+      details: |
+        As assignments, I had to outsource servers, both internal and external ones.
+        Via a suite of tools, I also had to analyze logs and perform regular scans in
+        order to prevent any risks for our customers. Servers additionally often had to be deployed,
+        installed, configured or updated while making sure to be using latest patches.
 projects:
     title: Projects
     intro: >
