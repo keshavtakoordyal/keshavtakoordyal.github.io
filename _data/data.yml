@@ -61,9 +61,11 @@ career-profile:
       Distro named  <a href="https://os.kinesis.games">Kinesis OS</a> bundled with many useful bash scripts,
       which uses <a href="https://www.archlinux.org/">Arch</a>'s package manager; pacman. In 2019, I was a
       mentor for Google Code-in with my former organisation; <a href="http://openwisp.org">OpenWISP</a>.
-      During my free time, I'm  experimenting new ways of developing websites and creating games or apps.
       In the pursuit of improving my devops skills, I experimented a lot with <a href="https://www.ansible.com/">Ansible</a> 
-      and <a href="https://www.docker.com/">Docker</a>.
+      and <a href="https://www.docker.com/">Docker</a>. I created hundreds of bash scripts and tens of sandboxes on
+      <a href="https://cloud.google.com/">Google Cloud</a>, and using proxies, made several services such as
+      <a href="https://www.kolide.com/fleet/">Fleet</a>, <a href="https://containo.us/traefik/">Traefik</a> and
+      <a href="https://www.phpmyadmin.net/">phpMyAdmin</a> have accessible and interactable dashboards on my own subdomains. 
 education:
     - degree: HSC (Maths, Physics, Computer Science)
       university: Mahatma Gandhi Institute Secondary School
@@ -85,6 +87,10 @@ projects:
     intro: >
       These are the most ambitious personal projects I worked on.
     assignments:
+      - title: Expanding my DevOps skills
+        link: "https://webserver.kinesis.games"
+        tagline: "Houses a LAMP Stack and tools such as Fleet and Traefik."
+
       - title: KinesisGames' Website
         link: "https://www.kinesis.games/"
         tagline: "A website to display the games I work on."
